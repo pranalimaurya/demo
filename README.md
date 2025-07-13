@@ -2,4 +2,5 @@
 
 This is my first Git  repository.
 <br>
-Author-Pranali (murai)
+Author-Pranali Maurya
+
